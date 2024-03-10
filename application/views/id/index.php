@@ -1224,10 +1224,13 @@ Jawa Barat 17610</p>
 					<div class="col-lg-5 col-md-12 col-sm-12 wow fadeIn" data-wow-delay="0.6s">
 						<div class="icon-bx-wraper bx-style-1 m-b15 p-a30 radius-sm br-col-w1 bg-tpw1">
 							<h5 class="text-white font-weight-300">Office</h5>
-							<p>Perum Wahana Pondok Ungu 
+							<!-- <p>Perum Wahana Pondok Ungu 
 Blok F4 No 9
 Babelan Kota, Kec Babelan, Kab Bekasi
 Jawa Barat 17610 <br> 081933803366
+<br>mahfud612@gmail.com</p> -->
+							<p>PLAZA SIMATUPANG LAANTAI 6 UNIT 3 JALAN TB SIMATUPANG KAVLING IS NOMOR 01,Desa/Kelurahan Pondok pinang,kec.kebayoran lama,kota adm.Jakarta Selatan,Provinsi DKI Jakarta Kode Pos 12310
+<br> 081933803366
 <br>mahfud612@gmail.com</p>
 						</div>
                     </div>
