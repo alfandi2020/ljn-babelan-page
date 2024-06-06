@@ -1232,7 +1232,12 @@ Blok F4 No 9
 Babelan Kota, Kec Babelan, Kab Bekasi
 Jawa Barat 17610 <br> 081933803366
 <br>mahfud612@gmail.com</p> -->
-							<p>CV FAN TECNO MEDIA <br>PLAZA SIMATUPANG LAANTAI 6 UNIT 3 JALAN TB SIMATUPANG KAVLING IS NOMOR 01,Desa/Kelurahan Pondok pinang,kec.kebayoran lama,kota adm.Jakarta Selatan,Provinsi DKI Jakarta Kode Pos 12310
+							<p>Lintas Jaringan Nusantara
+Kantor Layanan Babelan <br>Perum Wahana Pondok Ungu 
+Blok F4 No 9
+Babelan Kota, Kec Babelan, Kab Bekasi
+Jawa Barat 17610
+
 <br> 081933803366
 <br>mahfud612@gmail.com</p>
 						</div>
