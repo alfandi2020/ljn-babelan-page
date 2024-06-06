@@ -152,7 +152,7 @@
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[0,0,0,0]"
 									style="z-index: 6; min-width: 800px; max-width: 800px; font-weight: 600; white-space: normal; color: #fff; font-family: 'Poppins',sans-serif;">           
-									Lintas Jaringan Nusantara <br/> Babelan  <br><p style="font-size:20px;">Arya Media Data
+									Lintas Jaringan Nusantara <br/>Kantor Layanan Babelan  <br><p style="font-size:20px;">Arya Media Data
 
 Supported by
  PT Lintas Jaringan Nusantara     </p>                          
@@ -1232,7 +1232,7 @@ Blok F4 No 9
 Babelan Kota, Kec Babelan, Kab Bekasi
 Jawa Barat 17610 <br> 081933803366
 <br>mahfud612@gmail.com</p> -->
-							<p>Lintas Jaringan Nusantara
+							<p>Lintas Jaringan Nusantara <br>
 Kantor Layanan Babelan <br>Perum Wahana Pondok Ungu 
 Blok F4 No 9
 Babelan Kota, Kec Babelan, Kab Bekasi
