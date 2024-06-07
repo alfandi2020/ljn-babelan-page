@@ -152,10 +152,8 @@
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[0,0,0,0]"
 									style="z-index: 6; min-width: 800px; max-width: 800px; font-weight: 600; white-space: normal; color: #fff; font-family: 'Poppins',sans-serif;">           
-									Lintas Jaringan Nusantara <br/>Kantor Layanan Babelan  <br><p style="font-size:20px;">Arya Media Data
-
-Supported by
- PT Lintas Jaringan Nusantara     </p>                          
+									Lintas Jaringan Nusantara <br/>Kantor Layanan Babelan  <br><p style="font-size:20px;">
+									 </p>                          
 								</div>
 								<!-- LAYER NR. 3 -->
 								<!-- <div class="tp-caption" 
