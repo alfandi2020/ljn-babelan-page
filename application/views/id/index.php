@@ -152,8 +152,10 @@
 									data-paddingbottom="[0,0,0,0]"
 									data-paddingleft="[0,0,0,0]"
 									style="z-index: 6; min-width: 800px; max-width: 800px; font-weight: 600; white-space: normal; color: #fff; font-family: 'Poppins',sans-serif;">           
-									Lintas Jaringan Nusantara <br/>Kantor Layanan Babelan  <br><p style="font-size:20px;">
-									 </p>                          
+									Lintas Jaringan Nusantara <br/>Kantor Layanan Babelan  <br><p style="font-size:20px;">Arya Media Data
+
+Supported by
+ PT Lintas Jaringan Nusantara     </p>                          
 								</div>
 								<!-- LAYER NR. 3 -->
 								<!-- <div class="tp-caption" 
@@ -898,6 +900,20 @@
 			</div> -->
 			<!-- About Company END -->
 			<!-- Latest Projects -->
+			<div class="section-full content-inner bg-gray">
+				<div class="container">
+					<div class="section-head text-center">
+						<h2 class="title">Tentang Kami</h2>
+						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the been when an unknown printer.</p> -->
+					</div>
+					<div class="row">
+						<div class="col-xl-2"></div>
+						<div class="col-xl-8">
+							<h4 class="text-center">PT Arya Media Data merupakan perusahaan yang bergerak dalam bidang Teknologi Informasi dan merupakan Subnet dari PT Lintas Jaringan Nusantara dengan area layanan Wilayah Babelan dan sekitarnya</h4>
+						</div>
+					</div>
+				</div>
+			</div>
 			<div class="section-full content-inner-2 bg-white">
 				<div class="container">
 					<div class="section-head text-center">
@@ -1030,88 +1046,35 @@
 			<div class="section-full content-inner bg-white">
 				<div class="container">
 					<div class="section-head text-black text-center">
-						<h2 class="title text-capitalize">latest from blog</h2>
+						<h2 class="title text-capitalize">Coverage Area</h2>
 						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the been when an unknown printer.</p> -->
 					</div>
 					<div class="row">
-						<div class="col-lg-4 col-md-6 wow bounceInLeft" data-wow-duration="2s" data-wow-delay="0.3s">
-							<div class="blog-post blog-grid blog-rounded blog-effect1">
-                                <div class="dlab-post-media dlab-img-effect zoom"> 
-									<a href="<?= base_url() ?>assets/asset_fr/blog-single.html"><img src="<?= base_url() ?>assets/asset_fr/images/blog/grid/pic1.jpg" alt=""></a> 
-								</div>
-                                <div class="dlab-info p-a20 border-1 bg-white">
-                                    <div class="dlab-post-meta">
-                                        <ul>
-                                            <li class="post-date"> <strong>10 Aug</strong> <span> 2016</span> </li>
-                                            <li class="post-author"> By <a href="<?= base_url() ?>assets/asset_fr/javascript:void(0);">Jack</a> </li>
-                                        </ul>
-                                    </div>
-                                    <div class="dlab-post-title">
-                                        <h4 class="post-title"><a href="<?= base_url() ?>assets/asset_fr/blog-single.html">Seven Doubts You Should</a></h4>
-                                    </div>
-									<div class="dlab-post-text">
-                                       <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true.</p>
-                                    </div>
-									<div class="dlab-post-readmore"> 
-										<a href="<?= base_url() ?>assets/asset_fr/blog-single.html" title="READ MORE" rel="bookmark" class="site-button btnhover15">READ MORE
-											<i class="ti-arrow-right"></i>
-										</a>
-									</div>
-                                </div>
-                            </div>
-						</div>
-						<div class="col-lg-4 col-md-6 wow bounceInUp" data-wow-duration="2s" data-wow-delay="0.3s">
-							<div class="blog-post blog-grid blog-rounded blog-effect1">
-                                <div class="dlab-post-media dlab-img-effect zoom" > 
-									<a href="<?= base_url() ?>assets/asset_fr/blog-single.html"><img src="<?= base_url() ?>assets/asset_fr/images/blog/grid/pic2.jpg" alt=""></a> 
-								</div>
-                                <div class="dlab-info p-a20 border-1 bg-white">
-                                    <div class="dlab-post-meta ">
-                                        <ul>
-                                            <li class="post-date"> <strong>11 Aug</strong> <span> 2016</span> </li>
-                                            <li class="post-author"> By <a href="<?= base_url() ?>assets/asset_fr/javascript:void(0);">Zachary</a> </li>
-                                        </ul>
-                                    </div>
-									<div class="dlab-post-title">
-                                        <h4 class="post-title"><a href="<?= base_url() ?>assets/asset_fr/blog-single.html">The Shocking Revelation</a></h4>
-                                    </div>
-                                    <div class="dlab-post-text">
-                                       <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true.</p>
-									</div>
-									<div class="dlab-post-readmore"> 
-										<a href="<?= base_url() ?>assets/asset_fr/blog-single.html" title="READ MORE" rel="bookmark" class="site-button btnhover15">READ MORE
-											<i class="ti-arrow-right"></i>
-										</a>
-									</div>
-                                </div>
-                            </div>
-						</div>
-						<div class="col-lg-4 col-md-6 wow bounceInRight" data-wow-duration="2s" data-wow-delay="0.3s">
-							<div class="blog-post blog-grid blog-rounded blog-effect1">
-                                <div class="dlab-post-media dlab-img-effect zoom"> 
-									<a href="<?= base_url() ?>assets/asset_fr/blog-single.html"><img src="<?= base_url() ?>assets/asset_fr/images/blog/grid/pic3.jpg" alt=""></a> 
-								</div>
-                                <div class="dlab-info p-a20 border-1 bg-white">
-                                    <div class="dlab-post-meta">
-                                        <ul>
-                                            <li class="post-date"> <strong>12 Aug</strong> <span> 2016</span> </li>
-                                            <li class="post-author"> By <a href="<?= base_url() ?>assets/asset_fr/javascript:void(0);">Charlotte</a> </li>
-                                        </ul>
-                                    </div>
-									<div class="dlab-post-title">
-                                        <h4 class="post-title"><a href="<?= base_url() ?>assets/asset_fr/blog-single.html">The Story Of Industry</a></h4>
-                                    </div>
-                                    <div class="dlab-post-text">
-                                       <p>All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true.</p>
-                                    </div>
-									<div class="dlab-post-readmore"> 
-										<a href="<?= base_url() ?>assets/asset_fr/blog-single.html" title="READ MORE" rel="bookmark" class="site-button btnhover15">READ MORE
-											<i class="ti-arrow-right"></i>
-										</a>
-									</div>
-                                </div>
-                            </div>
-						</div>
+						<h6 class="text-center">Perum Wahana Pondok Ungu,
+Perum Wahana Babelan,
+Perumahan Griya Asri Bahagia,
+Kavling Bumi Kahuripan,
+Perumahan Villa IndahPulo Timaha,
+Cluster Savana Indah,
+Cluster Bumi Berlian Sejahtera 3,
+Cluster Griya Khalima, Babelan,
+Perumahan Puri Katulistiwa,
+Cluster Khalita,
+Perumahan Pesona Bella Cassa,
+Perumahan Citra Kerta Residence,
+Grand Duta City,
+Perumahan Villa Gading Harapan 3,
+Mutiara Gading City,
+GreenAra Harapan Indah,
+Perumahan Grand Mahkota,
+Cluster Amaranta Babelan,
+Cluster Akasya,
+Cluster Dandelion,
+Cluster Daniswara Residence,
+Pesona Bumi Harapan,
+Perumahan Victoria Permai,
+Perumahan Villa Mahkota Indah 3, Tarumajaya,
+Perumahan Philia Regency, Taruma jaya</h6>
 					</div>
 				</div>
 			</div>
@@ -1181,7 +1144,7 @@ Jawa Barat 17610</p>
         <div class="footer-top">
             <div class="container">
                 <div class="row">
-					<div class="col-lg-3 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="0.2s">
+					<!-- <div class="col-lg-3 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="0.2s">
                         <div class="widget border-0">
                             <h6 class="m-b20 text-white font-weight-300 text-uppercase">Quick Links</h6>
                             <ul class="list-2">
@@ -1197,8 +1160,8 @@ Jawa Barat 17610</p>
                                 <li><a href="<?= base_url() ?>assets/asset_fr/team-1.html">Team</a></li>
                             </ul>
                         </div>
-                    </div>
-					<div class="col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="0.4s">
+                    </div> -->
+					<!-- <div class="col-lg-4 col-md-6 col-sm-12 wow fadeIn" data-wow-delay="0.4s">
                         <div class="widget">
                             <h6 class="text-white font-weight-300 text-uppercase">Newsletter</h6>
                             <div class="subscribe-form m-b20 m-t15">
@@ -1221,7 +1184,7 @@ Jawa Barat 17610</p>
 								<li><a href="<?= base_url() ?>assets/asset_fr/javascript:void(0);" class="site-button twitter sharp"><i class="fab fa-twitter"></i></a></li>
 							</ul>
                         </div>
-                    </div>
+                    </div> -->
 					<div class="col-lg-5 col-md-12 col-sm-12 wow fadeIn" data-wow-delay="0.6s">
 						<div class="icon-bx-wraper bx-style-1 m-b15 p-a30 radius-sm br-col-w1 bg-tpw1">
 							<h5 class="text-white font-weight-300">Office</h5>
