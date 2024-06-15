@@ -900,6 +900,78 @@ Supported by
 			</div> -->
 			<!-- About Company END -->
 			<!-- Latest Projects -->
+			<div class="section-full content-inner bg-white">
+				<div class="container">
+					<div class="section-head text-black text-center">
+						<h2 class="title">Aktivitas</h2>
+						<!-- <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry has been the industry's standard dummy text ever since the been when an unknown printer.</p> -->
+					</div>
+					<div class="row">
+						<?php for ($i = 1; $i < 8; $i++) { ?>
+						<div class="col-lg-4 col-md-6 col-sm-12 m-b50 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.3s">
+							<div class="dlab-box service-box-3">
+								<div class="dlab-media radius-sm dlab-img-overlay1 zoom dlab-img-effect"> 
+									<a href="services-details.html"><img src="<?= base_url() ?>assets/images/gallery/<?= $i ?>.jpeg" alt=""></a> 
+								</div>
+								<!-- <div class="dlab-info">
+									<h4 class="title"><a href="services-details.html">Solar Panels</a></h4>
+								</div> -->
+							</div>
+						</div>
+						<?php } ?>
+						<!-- <div class="col-lg-4 col-md-6 col-sm-12 m-b50 wow fadeInDown" data-wow-duration="2s" data-wow-delay="0.6s">
+							<div class="dlab-box service-box-3"> 
+								<div class="dlab-media radius-sm dlab-img-overlay1 zoom dlab-img-effect"> 
+									<a href="services-details.html"><img src="images/our-work/solarplant/pic6.jpg" alt=""></a> 
+								</div>
+								<div class="dlab-info">
+									<h4 class="title"><a href="services-details.html">Wind Turbines</a></h4>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-12 m-b50 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.3s">
+							<div class="dlab-box service-box-3">
+								<div class="dlab-media radius-sm dlab-img-overlay1 zoom dlab-img-effect"> 
+									<a href="services-details.html"><img src="images/our-work/solarplant/pic3.jpg" alt=""></a> 
+								</div>
+								<div class="dlab-info">
+									<h4 class="title"><a href="services-details.html">Green Equipment</a></h4>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-12 m-b50 wow fadeInLeft" data-wow-duration="2s" data-wow-delay="0.3s">
+							<div class="dlab-box service-box-3">
+								<div class="dlab-media radius-sm dlab-img-overlay1 zoom dlab-img-effect"> 
+									<a href="services-details.html"><img src="images/our-work/solarplant/pic4.jpg" alt=""></a> 
+								</div>
+								<div class="dlab-info">
+									<h4 class="title"><a href="services-details.html">Installation</a></h4>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-12 m-b50 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
+							<div class="dlab-box service-box-3">
+								<div class="dlab-media radius-sm dlab-img-overlay1 zoom dlab-img-effect"> 
+									<a href="services-details.html"><img src="images/our-work/solarplant/pic5.jpg" alt=""></a> 
+								</div>
+								<div class="dlab-info">
+									<h4 class="title"><a href="services-details.html">Maintenance</a></h4>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 col-md-6 col-sm-12 m-b50 wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.3s">
+							<div class="dlab-box service-box-3">
+								<div class="dlab-media radius-sm dlab-img-overlay1 zoom dlab-img-effect"> 
+									<a href="services-details.html"><img src="images/our-work/solarplant/pic2.jpg" alt=""></a> 
+								</div>
+								<div class="dlab-info">
+									<h4 class="title"><a href="services-details.html">Monitoring</a></h4>
+								</div>
+							</div>
+						</div> -->
+					</div>
+				</div>
+			</div>
 			<div class="section-full content-inner bg-gray">
 				<div class="container">
 					<div class="section-head text-center">
