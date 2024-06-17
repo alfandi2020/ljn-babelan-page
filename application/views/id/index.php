@@ -382,23 +382,23 @@ Supported by
 							<a href="<?= base_url() ?>assets/asset_fr/index.html"><img src="<?= base_url() ?>assets/asset_fr/images/logo-4.png" alt=""></a>
 						</div>
 						<ul class="nav navbar-nav">	
-							<li class="has-mega-menu homedemo"><a href="#beranda">
+							<li class="has-mega-menu homedemo"><a href="#">
 									Beranda
 								</a>
 							</li>
-							<li class="has-mega-menu homedemo"><a href="#beranda">
+							<li class="has-mega-menu homedemo"><a href="#tentang">
 									Tentang Kami
 								</a>
 							</li>
-							<li class="has-mega-menu homedemo"><a href="#beranda">
+							<!-- <li class="has-mega-menu homedemo"><a href="#layanan">
 									Layanan
 								</a>
-							</li>
-							<li class="has-mega-menu homedemo"><a href="#beranda">
+							</li> -->
+							<li class="has-mega-menu homedemo"><a href="#area">
 									Coverage area
 								</a>
 							</li>
-							<li class="has-mega-menu homedemo"><a href="#beranda">
+							<li class="has-mega-menu homedemo"><a href="#paket">
 									Paket
 								</a>
 							</li>
@@ -972,7 +972,7 @@ Supported by
 					</div>
 				</div>
 			</div>
-			<div class="section-full content-inner bg-gray">
+			<div class="section-full content-inner bg-gray" id="tentang">
 				<div class="container">
 					<div class="section-head text-center">
 						<h2 class="title">Tentang Kami</h2>
@@ -986,7 +986,7 @@ Supported by
 					</div>
 				</div>
 			</div>
-			<div class="section-full content-inner-2 bg-white">
+			<div class="section-full content-inner-2 bg-white" id="paket">
 				<div class="container">
 					<div class="section-head text-center">
 						<h2 class="title">Paket Internet</h2>
@@ -1115,7 +1115,7 @@ Supported by
 			</div>
 			<!-- Testimonials End -->
 			<!-- Latest From Blog -->
-			<div class="section-full content-inner bg-white">
+			<div class="section-full content-inner bg-white" id="area">
 				<div class="container">
 					<div class="section-head text-black text-center">
 						<h2 class="title text-capitalize">Coverage Area</h2>
